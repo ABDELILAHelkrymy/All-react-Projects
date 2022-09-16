@@ -1,0 +1,9 @@
+npx create-react-app appName
+npm start 
+
+component - state - props 
+const [state, setState] = useState(initial type) 
+useEffect(arrow-function, array) : do somting when rendering
+context api (global state) should wraping app by provider
+
+

@@ -1,0 +1,2 @@
+Redux helps you manage "global" state - state that is needed across many parts of your application.
+
